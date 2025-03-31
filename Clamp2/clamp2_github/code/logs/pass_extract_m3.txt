@@ -1,0 +1,7 @@
+midi_test_files_mtf\blues.00003.mtf
+midi_test_files_mtf\blues.00001.mtf
+midi_test_files_mtf\blues.00005.mtf
+midi_test_files_mtf\blues.00000.mtf
+midi_test_files_mtf\blues.00004.mtf
+midi_test_files_mtf\blues.00002.mtf
+midi_test_files_mtf\blues.00006.mtf

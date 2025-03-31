@@ -1,0 +1,3 @@
+Using device: cuda
+Found 100 files in total
+GPU ID: cuda
