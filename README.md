@@ -97,7 +97,7 @@ python main.py --dataset songs --emb-methods both --emb-dir results/embeddings/s
 
 * ID zespołu: 4
 * Członkowie: 
-    * Wiktor Niemirski
-    * Sebastian Albowicz 
-    * Andrzej Sawicki 
+    * Wiktor N.
+    * Sebastian A.
+    * Andrzej S.
 
