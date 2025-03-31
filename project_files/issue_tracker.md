@@ -38,4 +38,4 @@
     * Przerwa świąteczna
 
 * **Tydzień 14** (30 grudnia - 5 stycznia)
-    * - [ ] Ostateczne poprawki i oddanie projektu.
+    * - [X] Ostateczne poprawki i oddanie projektu.
