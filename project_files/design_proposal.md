@@ -8,9 +8,9 @@ Projekt ma na celu zbadanie jakości i własności embeddingigów muzyki symboli
 
 * ID zespołu: 4
 * Członkowie: 
-    * Wiktor Niemirski
-    * Sebastian Albowicz 
-    * Andrzej Sawicki 
+    * Wiktor N.
+    * Sebastian A.
+    * Andrzej S.
 
 ## Harmonogram
 
