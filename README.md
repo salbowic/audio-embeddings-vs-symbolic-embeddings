@@ -1,4 +1,4 @@
-# WIMU 24Z Projekt <br> Audio embeddings vs symbolic embeddings 
+# Audio embeddings vs symbolic embeddings 
 
 ## 📌 Cel projektu
 Projekt miał na celu zbadanie jakości i własności embeddingów muzyki symbolicznej generowanych przy pomocy enkodera CLaMP2 w stosunku do emebeddingów muzyki w formatacie audio uzyskiwanych przy pomocy OpenL3. 
