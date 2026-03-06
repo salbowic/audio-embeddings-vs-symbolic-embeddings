@@ -92,12 +92,3 @@ python main.py --dataset songs --emb-methods both --emb-dir results/embeddings/s
 ├── music_emb_gen_env.yml                   # plik do tworzenia środowiska
 ├── README.md                               # opis projektu
 ```
-
-## 🤝 Zespół
-
-* ID zespołu: 4
-* Członkowie: 
-    * Wiktor N.
-    * Sebastian A.
-    * Andrzej S.
-
